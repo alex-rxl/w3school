@@ -175,3 +175,8 @@
   + [站点](http://it-ebooks.flygon.net/)
   + [站点源码](https://github.com/it-ebooks/blog)
   + [归档](https://github.com/it-ebooks/it-ebooks-archive)
+  
+## 额外在线资料
+
++ 简书
+  +[简书](https://www.jianshu.com/p/3aed4ddb7cd2)
